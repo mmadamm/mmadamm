@@ -6,4 +6,4 @@
 
  I am a software engineering student
  Love Python and Django
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmadamm&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmadamm&show_icons=true&theme=onedark)
